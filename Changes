@@ -1,0 +1,6 @@
+Revision history for Perl extension Palm::PK22Perl.
+
+0.01  Mon Sep  8 18:23:43 2003
+	- original version; created by h2xs 1.22 with options
+		-X Palm::PK22Perl
+
